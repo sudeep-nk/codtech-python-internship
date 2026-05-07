@@ -1,5 +1,5 @@
 # CodTech Python Internship — All 4 Tasks
-**Intern:** [Your Name]  
+**Intern:** Sudeep  
 **Domain:** Python Programming  
 **Organization:** CodTech IT Solutions
 
