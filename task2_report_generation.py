@@ -1,7 +1,7 @@
 # ============================================================
 # CODTECH INTERNSHIP - TASK 2
 # Automated Report Generation
-# Author: [Your Name]
+# Author: Sudeep
 # Description: Reads student performance data from a CSV,
 #              performs analysis, and generates a formatted
 #              multi-page PDF report using ReportLab.
