@@ -1,7 +1,7 @@
 # ============================================================
 # CODTECH INTERNSHIP - TASK 4
 # Machine Learning Model Implementation
-# Author: [Your Name]
+# Author: Sudeep
 # Description: Spam Email Detection using multiple ML models.
 #              Includes EDA, preprocessing, model comparison,
 #              hyperparameter tuning, and evaluation metrics.
