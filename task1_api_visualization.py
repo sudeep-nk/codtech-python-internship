@@ -1,7 +1,7 @@
 # ============================================================
 # CODTECH INTERNSHIP - TASK 1
 # API Integration and Data Visualization
-# Author: [Your Name]
+# Author: Sudeep
 # Description: Fetches weather data from OpenWeatherMap API
 #              for multiple Indian cities and creates a
 #              comprehensive visualization dashboard.
