@@ -1,7 +1,7 @@
 # ============================================================
 # CODTECH INTERNSHIP - TASK 3
 # AI Chatbot with NLP
-# Author: [Your Name]
+# Author: Sudeep
 # Description: A college information chatbot using NLTK,
 #              TF-IDF for intent matching, and SpaCy for NER.
 #              Includes conversation memory and Streamlit UI.
